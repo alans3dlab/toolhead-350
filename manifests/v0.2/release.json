@@ -1,0 +1,26 @@
+{
+ "version": "v0.2",
+ "zip": "alans3dlab-toolhead-v0.2-stl.zip",
+ "zipBytes": 16352260,
+ "count": 16,
+ "stlBytes": 29570144,
+ "sha256": {
+  "alans3dlab-toolhead-v0.2-stl.zip": "8935879b8535f6b7db4dd9e1e2c134149acfc865a41b5dd0ff9302dcb48c0c80",
+  "arm.stl": "a9c60f7f470162ce5ea067e45136cc327e94f50d5828f355f4fbcb6af6ae46b8",
+  "bezel.stl": "fe0de3bb4dc00abfc6ac12de2c83cd4a1eda34689b2f7685b6a420f20c05cd5a",
+  "body.stl": "37c247e176b170e1e339a69ebc40bdfc2065a84bd0a5374831fb57a7649d871c",
+  "cammount.stl": "ad1d4bea73b32e840843a63888c99536dd25ec37241f017b0657d4eb34dbfd1c",
+  "carrier_bambu.stl": "1de754cb6e124fbfcf36b95d93c1812bb31b8d3b57c21c30f2d94e3efdf69136",
+  "carrier_dragon.stl": "cf5b9f0277b4e0524427a0b716293766712231c5191a61addbe5d905966a794d",
+  "carrier_lizard.stl": "ffc38cd038df0e184d1f6a8b9837e5a9be5f843d25b36dbbb832a9adaf3d21bb",
+  "carrier_mosquito.stl": "e0fa77c0510bf6a5658fd7b2d3719890a1e0398ade538b20d18b2368f7e4527d",
+  "cooling.stl": "ed099ea079acb40b5c5082ad86b8a4045cf2273f47782c39aadc9cdfdf546f4e",
+  "cover.stl": "cfd491293b3b5e0a8f690da9db9bbc561e7a52d50638cf03f406e3dcc1f2865b",
+  "frame.stl": "daeff238cd1f855660eb3677f5fdf15f76585dbc93bd868ac533a2ec6eea6785",
+  "hood.stl": "675aed44141481dfa6ef16e905024f602a9388ff18e0a853b2b4d3dfdf2c66d5",
+  "lid.stl": "f7d182f751265e0195445e9f14bfd234c61f7e0b9a3ef361fe5cf6a318e26224",
+  "logolens.stl": "4248938f7a80fef883d8fd75b71f0fd45e77ca3a3568cd59227a5ecb06c0fe5a",
+  "logomask.stl": "19d6adac56a95fb999d21a16cff6d6295c33584c039ca1096c58d0501342168b",
+  "spine.stl": "3d87cee5862ba00937ccdfe2a9f0ec0659f5b56e5ab8fa45fbd4c11a2dc57fca"
+ }
+}
