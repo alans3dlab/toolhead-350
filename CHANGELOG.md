@@ -1,5 +1,11 @@
 # 更新紀錄 Changelog
 
+## 單頭方案 v0.5（2026-11-16）
+
+- 前臉整個重畫（參數化 CAD，附 STEP 與 3MF）：稜角 5015 風扇殼（風扇從正面放入、SH-08 風扇蓋板代替原廠上蓋）、四條獨立冷卻風管 SH-13（左前、右前、左後、右後）、兩片 45 度 RGB 噴嘴燈、新的鏤空副板蓋 SH-14、照 VORON 官方比例重畫的 LOGO、蜂窩 SB2209 蓋板。取消 SH-10 相機座。
+
+*New front: faceted 5015 shell, four separate cooling ducts, two 45-degree RGB nozzle lights, open board cover, redrawn logo, honeycomb side cover; side camera mount dropped.*
+
 ## v0.2 加厚版（2026-11-12）
 
 - 所有列印件最薄處加厚到 2 mm 以上（平躺列印的薄板例外），孔洞完整，螺絲與熱熔螺母周圍至少 2 mm。
