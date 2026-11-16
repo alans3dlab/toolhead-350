@@ -1,5 +1,12 @@
 # 更新紀錄 Changelog
 
+## 單頭方案 v0.7 Single-head scheme v0.7 (single-head-v0.7)
+
+擠出機殼馬達螺絲、壓臂轉軸與彈簧預壓、燈臂外移讓加熱棒線、風管隔牆。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.7/BOM.csv。
+
+Motor screws, idler pivot and spring preload, light arms moved for the heater wires, duct walls. Hardware statuses remain explicit.
+
+
 ## 單頭方案 v0.6 Single-head scheme v0.6 (single-head-v0.6)
 
 左燈臂、側蓋螺絲頭孔、副板蓋立柱與線口更新；取消 SH-B10。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.6/BOM.csv。
