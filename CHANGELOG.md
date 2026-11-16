@@ -1,5 +1,12 @@
 # 更新紀錄 Changelog
 
+## 單頭方案 v0.7.1 Single-head scheme v0.7.1 (single-head-v0.7.1)
+
+壓臂補肋（惰輪軸偏移降到與 Voron 原版相當）、全部零件附列印建議。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.7.1/BOM.csv。
+
+Idler arm stiffened to match the Voron original; print settings for every part. Hardware statuses remain explicit.
+
+
 ## 單頭方案 v0.7 Single-head scheme v0.7 (single-head-v0.7)
 
 擠出機殼馬達螺絲、壓臂轉軸與彈簧預壓、燈臂外移讓加熱棒線、風管隔牆。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.7/BOM.csv。
