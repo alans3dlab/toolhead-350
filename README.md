@@ -63,3 +63,9 @@ Pick the one hotend carrier (Mosquito, Dragon, Red Lizard or X1C) that fits your
 | 單頭方案 Single-head scheme（2026-11-13） | [整包 zip / all files](https://github.com/alans3dlab/toolhead-350/releases/download/single-head-20261113/SINGLE_all.zip) · [逐件檔案 / individual files](https://github.com/alans3dlab/toolhead-350/releases/tag/single-head-20261113) |
 
 網頁 Page：https://www.voron.com.tw/works/toolhead
+
+## 單頭方案 v0.6 Single-head scheme v0.6 (single-head-v0.6)
+
+左燈臂、側蓋螺絲頭孔、副板蓋立柱與線口更新；取消 SH-B10。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.6/BOM.csv。
+
+Left light arm, screw-head opening, board-cover posts and cable opening updated. Hardware statuses remain explicit.

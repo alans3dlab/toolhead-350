@@ -1,5 +1,12 @@
 # 更新紀錄 Changelog
 
+## 單頭方案 v0.6 Single-head scheme v0.6 (single-head-v0.6)
+
+左燈臂、側蓋螺絲頭孔、副板蓋立柱與線口更新；取消 SH-B10。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.6/BOM.csv。
+
+Left light arm, screw-head opening, board-cover posts and cable opening updated. Hardware statuses remain explicit.
+
+
 ## 單頭方案 v0.5（2026-11-16）
 
 - 前臉整個重畫（參數化 CAD，附 STEP 與 3MF）：稜角 5015 風扇殼（風扇從正面放入、SH-08 風扇蓋板代替原廠上蓋）、四條獨立冷卻風管 SH-13（左前、右前、左後、右後）、兩片 45 度 RGB 噴嘴燈、新的鏤空副板蓋 SH-14、照 VORON 官方比例重畫的 LOGO、蜂窩 SB2209 蓋板。取消 SH-10 相機座。
