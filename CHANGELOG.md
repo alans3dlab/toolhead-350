@@ -1,5 +1,11 @@
 # 更新紀錄 Changelog
 
+## 單頭方案 v0.8.2 Single-head scheme v0.8.2 (single-head-v0.8.2)
+
+逐件來源、作者與縮圖；公開 6 件可再散布的列印 STL 與 STEP（V08-010、011、057、058、059、074）、列印姿態與公開 ZIP。KNOMI、AZ、超輕 CW2 等未取得再散布授權的原件不公開。
+
+Per-part sources, authors and thumbnails; six redistributable printable parts with STEP, print placements and public ZIPs. Parts without a redistribution grant are not published.
+
 ## 單頭方案 v0.8.1 Single-head scheme v0.8.1 (single-head-v0.8.1)
 
 KNOMI 面罩挖空、LCD 嵌入、蜂巢線蓋、M12 座；V6 加熱塊轉 90° 修正方向。可下載件僅 Voron 官方 LED 件 V08-057／058／059（GPL-3.0）與輕量面罩 V08-074（CC0）；其餘只在網頁展示。
