@@ -1,5 +1,11 @@
 # 更新紀錄 Changelog
 
+## 單頭方案 v0.8.1 Single-head scheme v0.8.1 (single-head-v0.8.1)
+
+KNOMI 面罩挖空、LCD 嵌入、蜂巢線蓋、M12 座；V6 加熱塊轉 90° 修正方向。可下載件僅 Voron 官方 LED 件 V08-057／058／059（GPL-3.0）與輕量面罩 V08-074（CC0）；其餘只在網頁展示。
+
+KNOMI face cutouts, inset LCD, honeycomb cable cover, M12 mount; V6 heater block rotated 90°. Downloads limited to official Voron LED parts (GPL-3.0) and the lightweight face (CC0).
+
 ## 單頭方案 v0.7.1 Single-head scheme v0.7.1 (single-head-v0.7.1)
 
 壓臂補肋（惰輪軸偏移降到與 Voron 原版相當）、全部零件附列印建議。五金規格彙總含未定與待實物確認項目，詳見 manifests/single-head-v0.7.1/BOM.csv。
